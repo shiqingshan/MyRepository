@@ -23,6 +23,7 @@ build/
 *.ipr
 *.iws
 .idea/
+target/
 
 #gradle
 .gradle/
