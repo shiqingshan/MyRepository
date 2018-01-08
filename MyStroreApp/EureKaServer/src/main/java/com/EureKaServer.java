@@ -11,6 +11,5 @@ public class EureKaServer {
         SpringApplication.run(EureKaServer.class,args);
         System.out.println("rebase");
         System.out.print("aaa");
-        System.out.print("冲突");
     }
 }
